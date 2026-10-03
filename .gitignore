@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+.vscode/
+
+furia_memory.json
+furia_memory.json.tmp
+
+video_cache/
